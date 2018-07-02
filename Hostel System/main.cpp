@@ -1,5 +1,3 @@
-//written by Chua Wei Zhe(132898) Group F
-
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
